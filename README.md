@@ -2,7 +2,7 @@ Projeto Algoritmo de Bellman-Ford para Rotas em Roma
 Este projeto utiliza o algoritmo de Bellman-Ford para encontrar o melhor caminho entre duas cidades em Roma, com base em uma tabela que descreve as conexões entre as estradas.
 
 Requisitos:
-Python 3
+Python 3 e
 Pandas
 
 Como Usar:
